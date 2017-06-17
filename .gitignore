@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# node modules
+*node_modules/
+
+# Pycharm folders
+*.idea/
+
